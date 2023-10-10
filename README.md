@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hallo 👋
+
+I'm currently a student a Calstate Fullerton studying computer science!
+
+Experence with: C/C++, Python, and x86-NASM.
+
+Fun Fact: I stream on twitch
+
 
 <!--
 **BearB34R/BearB34R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
