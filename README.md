@@ -36,7 +36,6 @@ andy@github:~$ whoami
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BearB34R&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BearB34R&theme=tokyonight" alt="GitHub Streak" height="150">
 </div>
 
 ## 📫 Let's Connect!
