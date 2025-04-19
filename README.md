@@ -31,13 +31,6 @@ andy@github:~$ whoami
 │   └── Tools:         NeoVim, Linux, OpenAI
 ```
 
-
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BearB34R&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
-</div>
-
 ## 📫 Let's Connect!
 <div align="left">
   <a href="mailto:andynguyendo@gmail.com">
