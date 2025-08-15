@@ -4,7 +4,7 @@
   <h3>Software Engineer | CS Student @ CSUF</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andynguyendo/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.andydonguyen.live/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.andydonguyen.com/)
 </div>
 
 ## 👨‍💻 About Me
@@ -12,11 +12,10 @@
 andy@github:~$ whoami
 > Software Engineer passionate about building scalable solutions
 > Currently pursuing Computer Science @ Cal State Fullerton
-> Seeking Summer 2025 Software Engineering Internships
 > Building innovative full-stack applications
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Tech me
 ```
 │── 🔨 Languages
 │   ├── Proficient:    Python, JavaScript, C++
@@ -46,10 +45,5 @@ andy@github:~$ whoami
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BearB34R&color=blue&style=flat-square" alt="Profile views">
-</div>
-
----
-<div align="center">
-  <i>⭐ Don't forget to star repositories if you find them interesting!</i>
 </div>
 
